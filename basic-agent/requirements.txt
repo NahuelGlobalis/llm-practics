@@ -1,0 +1,4 @@
+# Requisitos del proyecto
+langgraph==0.1.2
+langchain==0.0.303
+langchain-ollama==0.1.0
